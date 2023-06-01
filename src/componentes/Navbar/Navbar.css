@@ -1,0 +1,17 @@
+header{
+    display:  flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: solid black 1px;
+    background-color: #F1F1F1;
+}
+
+li{
+    display: inline;
+    margin-right: 1rem;
+}
+
+ul{
+    border: solid black 2px;
+    border-radius: 5px;
+}
